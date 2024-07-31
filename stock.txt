@@ -1,0 +1,5 @@
+Macbook Pro,Apple,2000,2003,M1 Pro,GTX 3060
+Swift 7,Acer,1500,949,i7 7th Gen,GTX 3070
+Razer,Razer Blade,2000,1299,i7 7th Gen,GTX 3060
+XPS,Dell,1900,1431,i5 9th Gen,GTX 3070
+Alienware,Alienware,2100,999,i5 9th Gen,GTX 3080
