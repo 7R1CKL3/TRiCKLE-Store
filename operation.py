@@ -3,7 +3,7 @@ from read import *
 def welcome():
     print("-------------------------------------------------------------------------------")
     print("Hello Admin!!!\n")
-    print("Welcome to my buying, selling and billing program. Hope you enjoy it!")
+    print("Welcome to TRiCKLE Store. Hope you enjoy it!")
     print("-------------------------------------------------------------------------------\n")     
 
 
